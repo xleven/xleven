@@ -25,7 +25,7 @@ Some demos I have built:
 - [AI Hackathon Judge](https://github.com/xleven/ai-hackathon-judge): An AI judge for daily LLM hackathons
 - [DataVizQA](https://github.com/xleven/datavizqa): QA on your data with visualizations
 
-You may contact me  through:
+You may contact me through:
 
 - [GitHub](https://github.com/xleven)
 - [Twitter](https://twitter.com/xlevenz)
