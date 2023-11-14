@@ -19,11 +19,16 @@ Greeting from xleven!
 
 After serving as a data scientist for several years, I’m right now a full stack AI engineer who loves LLMs and all cutting-edge AI techs.
 
-Some demos I have built:
+Demos I have built recently:
 
 - [AI Chatroom](https://github.com/xleven/ai-chatroom): Multiple AI bots in a chatroom while you take control
 - [AI Hackathon Judge](https://github.com/xleven/ai-hackathon-judge): An AI judge for daily LLM hackathons
 - [DataVizQA](https://github.com/xleven/datavizqa): QA on your data with visualizations
+
+Blog where I write about AI, data, tech and all:
+
+- [Vercel app](https://xleven.vercel.app)
+- [Notion site](https://xleven.notion.site/xleven-56aa6fe0bf6a4d91b96352785fa49ae0)
 
 You may also find me at:
 
