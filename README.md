@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greeting from xleven!
+Greetings from xleven!
 
-After serving as a data scientist for several years, I’m right now a full stack AI engineer who loves LLMs and all cutting-edge AI techs.
+I’m right now a full stack AI engineer who loves LLMs and all cutting-edge AI techs. Formerly I'd been a data scientist for several years.
 
-Demos I have built recently:
+Projects I've been building recently:
 
 - [AI Chatroom](https://github.com/xleven/ai-chatroom): Multiple AI bots in a chatroom while you take control
 - [AI Hackathon Judge](https://github.com/xleven/ai-hackathon-judge): An AI judge for daily LLM hackathons
 - [DataVizQA](https://github.com/xleven/datavizqa): QA on your data with visualizations
 
-Blog where I write about AI, data, tech and all:
+Blogs where I write about AI, data, tech and all:
 
 - [Vercel app](https://xleven.vercel.app)
 - [Notion site](https://xleven.notion.site/xleven-56aa6fe0bf6a4d91b96352785fa49ae0)
 
-You may also find me at:
+Reach me at:
 
 - [LinkedIn](https://www.linkedin.com/in/xleven)
 - [Twitter](https://twitter.com/xlevenz)
