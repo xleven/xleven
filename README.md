@@ -27,8 +27,8 @@ Projects I've been building recently:
 
 Blogs where I write about AI, data, tech and all:
 
-- [Vercel app](https://xleven.vercel.app)
-- [Notion site](https://xleven.notion.site/xleven-56aa6fe0bf6a4d91b96352785fa49ae0)
+- English: [xleven's blog](https://xleven.vercel.app)
+- 中文: [万千十一的博客](https://blog.omnieleven.cc)
 
 Reach me at:
 
