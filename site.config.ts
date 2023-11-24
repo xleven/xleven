@@ -2,27 +2,28 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '56aa6fe0bf6a4d91b96352785fa49ae0',
+  rootNotionPageId: 'dcf6216b727e4df0a68d86b2ff465d2a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: `AI, data and all: xleven's blog`,
-  domain: 'xleven.github.io',
-  author: 'xleven',
+  name: `万千十一的博客`,
+  domain: 'blog.omnieleven.cc',
+  author: '万千十一',
 
   // open graph metadata (optional)
-  description: `Xleven's blogs about AI, data and all`,
+  description: `万千十一的博客：玩前沿AI，聊有趣数据`,
 
   // social usernames (optional)
-  twitter: 'xlevenz',
-  github: 'xleven',
-  linkedin: 'xleven',
+  // twitter: 'xlevenz',
+  // github: 'xleven',
+  // linkedin: 'xleven',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'xlevenz', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  // youtube: 'xlevenz', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  zhihu: 'celevn',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
