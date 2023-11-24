@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: `AI, data and all: xleven's blog`,
-  domain: 'xleven.github.io',
+  domain: 'xleven.vercel.app',
   author: 'xleven',
 
   // open graph metadata (optional)
