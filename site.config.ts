@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'xleven',
 
   // open graph metadata (optional)
-  description: `Xleven's blogs about AI, data and all`,
+  description: `xleven's blogs about AI, data and all`,
 
   // social usernames (optional)
   twitter: 'xlevenz',
@@ -22,7 +22,7 @@ export default siteConfig({
   linkedin: 'xleven',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'xlevenz', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@xlevenz', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
