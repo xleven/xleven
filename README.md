@@ -22,6 +22,7 @@ I’m right now a full stack AI engineer who loves LLMs and all cutting-edge AI 
 Projects I've been building recently:
 
 - [AI Chatroom](https://github.com/xleven/ai-chatroom): Multiple AI bots in a chatroom while you take control
+- [Agenty](https://agenty.vercel.app): Team up with AI agents
 - [AI Hackathon Judge](https://github.com/xleven/ai-hackathon-judge): An AI judge for daily LLM hackathons
 - [DataVizQA](https://github.com/xleven/datavizqa): QA on your data with visualizations
 
