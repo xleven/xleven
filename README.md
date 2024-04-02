@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Greetings from xleven!
 
-I’m right now a full stack AI engineer who loves LLMs and all cutting-edge AI techs. Formerly I'd been a data scientist for several years.
+I’m right now a full stack AI engineer who loves LLMs and all cutting-edge AI techs. Formerly I worked as a data scientist for several years.
 
 Projects I've been building recently:
 
@@ -28,10 +28,5 @@ Projects I've been building recently:
 
 Blogs where I write about AI, data, tech and all:
 
-- English: [xleven's blog](https://xleven.vercel.app)
-- 中文: [万千十一的博客](https://blog.omnieleven.cc)
-
-Reach me at:
-
-- [LinkedIn](https://www.linkedin.com/in/xleven)
-- [Twitter](https://twitter.com/xlevenz)
+- [xleven's blog](https://xleven.vercel.app) (English)
+- [万千十一的博客](https://blog.omnieleven.com) (中文)
